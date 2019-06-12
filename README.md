@@ -6,3 +6,6 @@ Spilt atlas texture region
 |:---:|:----:|
 | -td ；--tex_dir | texture2D贴图所在文件夹路径 |
 | -ad ；--atlas_dir | atlas 文件所在文件夹路径 |
+| -tf ；--atlas_dir | atlas 文件所在文件夹路径 |
+| -af ；--atlas_dir | atlas 文件所在文件夹路径 |
+| -s ；--atlas_dir | atlas 文件所在文件夹路径 |
